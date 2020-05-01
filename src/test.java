@@ -2,5 +2,11 @@ public class test {
 
     public static void main(String[] args) {
         System.out.println("hello");
+        System.out.println("world");
+        runTest();
     }
+
+    private static void runTest() {
+    }
+
 }
